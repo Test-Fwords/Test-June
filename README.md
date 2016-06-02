@@ -3,4 +3,4 @@ where is love
 
 Bestlover is you
 
-fuck
+fucker
