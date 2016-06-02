@@ -1,6 +1,12 @@
 # Test-June
-where is love
+where is my bestlover
 
+<<<<<<< HEAD
 Bestlover is you my beauty
 
 so good
+=======
+Bestlover is my beauty
+
+Superman
+>>>>>>> mme
